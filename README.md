@@ -71,6 +71,6 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Prasad502">
+    <img src="https://komarev.com/ghpvc/?username=SamkitShah55">
 </a>
 <a href="https://github.com/SamkitShah55?tab=followers"><img src="https://img.shields.io/github/followers/SamkitShah55?label=Followers&style=social" alt="GitHub Badge"></a>
